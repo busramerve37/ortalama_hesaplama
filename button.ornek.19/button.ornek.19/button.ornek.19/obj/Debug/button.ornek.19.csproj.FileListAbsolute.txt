@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\bin\Debug\button.ornek.19.exe.config
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\bin\Debug\button.ornek.19.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\bin\Debug\button.ornek.19.pdb
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\obj\Debug\button.ornek.19.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\obj\Debug\button.ornek.19.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\obj\Debug\button.ornek._19.lblDurum.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\obj\Debug\button.ornek._19.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\obj\Debug\button.ornek.19.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\obj\Debug\button.ornek.19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\obj\Debug\button.ornek.19.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.19\button.ornek.19\button.ornek.19\obj\Debug\button.ornek.19.pdb
